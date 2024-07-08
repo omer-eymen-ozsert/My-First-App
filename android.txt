@@ -1,0 +1,3 @@
+title=<I_V_T>
+author=<0mer_Eymen_0zsert>
+orientation=<portrait|landscape>
